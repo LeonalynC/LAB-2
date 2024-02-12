@@ -1,0 +1,38 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fde5e9; 
+  color: #333; /
+}
+
+.navbar {
+  background-color: #f9c0c9; 
+}
+
+.navbar-brand, .nav-link {
+  color: #fff; 
+}
+
+.container {
+  padding: 30px;
+}
+
+.card {
+  margin: 20px 0;
+  border: 2px solid #f9c0c9;
+  border-radius: 15px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.card-title {
+  color: #ec407a; 
+}
+
+.card-text {
+  color: #777;
+}
+
+h1 {
+  text-align: center;
+  color: #ec407a; 
+}
+/* coded by christine */
