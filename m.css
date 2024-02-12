@@ -35,4 +35,21 @@ h1 {
   text-align: center;
   color: #ec407a; 
 }
-/* coded by christine */
+
+.btn-primary {
+  background-color: #ff69b4; 
+  border-color: #ff69b4; 
+  color: #fff; 
+}
+
+.btn-primary:hover {
+  background-color: #ff1493; 
+  border-color: #ff1493; 
+}
+
+.card-body a.btn {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+/* coded by Leonalyn */
